@@ -4,7 +4,7 @@ Education Economics in Python
 # Report
 **[Reports]**  
 
-[Report1](https://github.com/ogaway/EduEcon/blob/master/EnrollmentRatio.pdf)(10/25)  
+[Report1](http://nbviewer.ipython.org/github/ogaway/EduEcon/blob/master/EnrollmentRatio.pdf)(10/25)  
 
 **[Notebooks]**  
 * Analysis for Report1  
